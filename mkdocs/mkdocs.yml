@@ -1,30 +1,9 @@
 site_name: Freeze_Dolphin
 
-theme: 
-  name: material
+theme:
+   name: material
 
 markdown_extensions:
-  - admonition
-  - codehilite:
-    guess_lang: true
-    linenums: false
-    - toc:
-      permalink: true
-      - footnotes
-      - meta
-      - def_list
-      - pymdownx.arithmatex
-      - pymdownx.betterem:
-        smart_enable: all
-        - pymdownx.caret
-        - pymdownx.critic
-        - pymdownx.details
-        - pymdownx.emoji:
-          emoji_generator: !!python/name:pymdownx.emoji.to_png
-          - pymdownx.inlinehilite
-          - pymdownx.magiclink
-          - pymdownx.mark
-          - pymdownx.smartsymbols
-          - pymdownx.superfences
-          - pymdownx.tasklist
-          - pymdownx.tilde
+-  codehilite:
+      guess_lang: true
+      linenums: false

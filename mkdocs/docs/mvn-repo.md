@@ -1,6 +1,6 @@
 # Maven Repository
 
-(This)[https://github.com/freeze-dolphin/maven-repository] is my maven repository
+[This](https://github.com/freeze-dolphin/maven-repository) is my maven repository  
 
 Notice that snapshots and releases will NOT be distinguished in this repository
 

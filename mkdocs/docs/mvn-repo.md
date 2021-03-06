@@ -1,12 +1,12 @@
 # Maven Repository
 
-[This](https://github.com/freeze-dolphin/maven-repository) is my maven repository  
+You can visit my self-built maven repository at [github](https://github.com/freeze-dolphin/maven-repository).
 
-Notice that snapshots and releases will NOT be distinguished in this repository
+All the things should be considered are shown in detail in `READMD.md` file which you can found at github.
 
 ## Get Started
 
-You can simply add the following codes to your `pom.xml` file to access to my repository :)
+You can simply add the following codes to your `pom.xml` file to access to my repository: 
 
 ```xml
 <repository>

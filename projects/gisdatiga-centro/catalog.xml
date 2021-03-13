@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE catalog SYSTEM "https://freeze-dolphin.github.io/xml/gisdatiga-centro/catalog.dtd">
+<!DOCTYPE catalog SYSTEM "https://freeze-dolphin.github.io/projects/gisdatiga-centro/catalog.dtd">
 <catalog>
     <repositories>
         <repository name="UltimateGenerators">

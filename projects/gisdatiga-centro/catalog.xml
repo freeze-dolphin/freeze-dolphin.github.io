@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "https://freeze-dolphin.github.io/xml/gisdatiga-centro/catalog.dtd">
+<catalog>
+    <repositories>
+        <repository name="UltimateGenerators">
+            <versions>
+                <version key="1.0.5">
+                    <name>Rainbow Generator Update</name>
+                    <desc>see the release page for more information</desc>
+                    <url>https://github.com/freeze-dolphin/UltimateGenerators/releases/tag/v1.0.5</url>
+                </version>
+                <version key="1.0.6">
+                    <name>Bug Fixes</name>
+                    <desc>see the release page for more information</desc>
+                    <url>https://github.com/freeze-dolphin/UltimateGenerators/releases/tag/v1.0.6</url>
+                </version>
+                <latest>1.0.6</latest>
+            </versions>
+        </repository>
+    </repositories>
+</catalog>

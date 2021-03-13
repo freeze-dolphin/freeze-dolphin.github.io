@@ -1,0 +1,11 @@
+<!ELEMENT catalog (repositories)>
+<!ELEMENT repositories (repository)>
+<!ELEMENT repository (versions)>
+<!ATTLIST repository name NMTOKEN #REQUIRED>
+<!ELEMENT versions (version+,latest)>
+<!ELEMENT version (name,desc,url)>
+<!ATTLIST version key NMTOKEN #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT latest (#PCDATA)>

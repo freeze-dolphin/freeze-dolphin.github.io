@@ -3,7 +3,7 @@ site_author: freeze-dolphin
 
 repo_url: https://github.com/freeze-dolphin
 
-theme: readthedocs
+theme: mkdocs
 
 markdown_extensions:
    - codehilite:

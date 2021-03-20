@@ -1,7 +1,8 @@
 site_name: Primary Library
 site_author: freeze-dolphin
 
-repo_url: https://github.com/freeze-dolphin
+repo_url: https://github.com/freeze-dolphin/
+copyright: Made by Freeze_Dolphin
 
 theme: material
 

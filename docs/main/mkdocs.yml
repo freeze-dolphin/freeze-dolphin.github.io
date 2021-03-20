@@ -1,9 +1,11 @@
 site_name: Primary Library
 site_author: freeze-dolphin
 
+repo_url: https://github.com/freeze-dolphin
+
 theme: readthedocs
 
 markdown_extensions:
    - codehilite:
         guess_lang: true
-        linenums: false
+        linenums: true

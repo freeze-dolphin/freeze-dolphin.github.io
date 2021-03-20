@@ -1,9 +1,9 @@
-site_name: Freeze_Dolphin
+site_name: Primary Library
+site_author: freeze-dolphin
 
-theme:
-   name: material
+theme: readthedocs
 
 markdown_extensions:
--  codehilite:
-      guess_lang: true
-      linenums: false
+   - codehilite:
+        guess_lang: true
+        linenums: false

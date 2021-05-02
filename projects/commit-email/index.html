@@ -8,12 +8,19 @@
 </head>
 
 <body>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
     <script type="text/javascript">
         if (confirm("Copy commit email address to system clipboard?")) {
-            alert('Yep!');
-        } else {
-            alert('Nope!');
-        }
+            <button id="copy" data-clipboard-text="40729044+freeze-dolphin@users.noreply.github.com">Copy</button>
+            var btns = document.getElementById('copy');
+            var clipboard = new ClipboardJS(btns);
+            clipboard.on('success', function (e) {
+                alarm("Success!");
+            });
+            clipboard.on('error', function (e) {
+                alarm("Something went wrong!");
+            });
+        } else { }
     </script>
 </body>
 

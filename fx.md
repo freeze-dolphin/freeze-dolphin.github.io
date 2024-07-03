@@ -1,15 +1,3 @@
----
-title: "植物学部分要点"
-output:
-  pdf_document:
-    latex_engine: lualatex
-header-includes:
-  - \usepackage{fontspec}
-  - \usepackage{luatexja}
-  - \setmainfont{WenQuanYi Micro Hei}
-  - \setCJKmainfont{WenQuanYi Micro Hei}
----
-
 ## 植物学部分要点
 
 - 裸子植物的种子是由三个世代的产物组成，即胚来自 **受精卵（合子）**，胚乳来自 **雌配子体**，种皮来自 **珠被**
